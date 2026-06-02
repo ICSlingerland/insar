@@ -1,0 +1,15 @@
+name: workshop-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - xarray
+  - matplotlib
+  - scipy
+  - tqdm
+  - contextily
+  - pip
+  - pip:
+    - drama

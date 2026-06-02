@@ -114,3 +114,8 @@ _build/
 
 # poetry files
 pyproject.toml
+
+#data files
+*.csv
+*.mat
+*.npz

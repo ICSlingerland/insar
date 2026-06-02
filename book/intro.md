@@ -1,6 +1,15 @@
 (intro)=
-# Welcome to the Template Book
+# Radar Interferometry and Geodesy
 
-_This is the first page the student will see when opening the url._
 
-This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative and some exercises to get you going!
+
+This is an open interactive book on Radar Interferometry and Geodesy. For a more comprehensive dive into the InSAR theory we can refer you to the book {cite}`hanssen2001radar`
+
+```{figure} figures/vangogh.jpg
+---
+height: 300px
+name: vangogh
+---
+
+```
+
