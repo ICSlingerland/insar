@@ -23,7 +23,7 @@ parts:
     chapters:
     - file: day_two/overview.md
       sections:
-      - file: /day_two/notebooks/is_insar_exercise.ipynb
+      - file: day_two/notebooks/is_insar_exercise.ipynb
       # - file: exercises/002.md
       # - file: exercises/003.md
       # - file: exercises/004.md
