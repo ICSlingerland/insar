@@ -119,3 +119,4 @@ pyproject.toml
 *.csv
 *.mat
 *.npz
+*.nc
