@@ -14,11 +14,11 @@ parts:
       - file: day_one/basics_of_sar_interferometry/SAR_refresher.ipynb
       - file: day_one/basics_of_sar_interferometry/basics_of_interferometry.ipynb
       - file: day_one/basics_of_sar_interferometry/Phase_Unwrapping.ipynb
-    - file: day_one/notebooks.md
-      sections:
-      - file: day_one/basics_of_sar_interferometry/notebooks/Module_1_completed.ipynb
-      - file: day_one/basics_of_sar_interferometry/notebooks/Module_3_Phase_Unwrapping.ipynb
-      - file: day_one/basics_of_sar_interferometry/notebooks/S1_TimeSeries_solved.ipynb
+      - file: day_one/notebooks.md
+        sections:
+        - file: day_one/basics_of_sar_interferometry/notebooks/Notebook_1_interferometry_processing_solution.ipynb
+        - file: day_one/basics_of_sar_interferometry/notebooks/Notebook_2_phase_unwrapping_solution.ipynb
+        - file: day_one/basics_of_sar_interferometry/notebooks/Notebook_3_S1_timeseries.ipynb
   - caption: Day 2
     chapters:
     - file: day_two/overview.md
